@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img-class-propio img{
+    height: 50vh;
+    object-fit: cover;
+}
+main{
+    min-height: 100vh;
+}
