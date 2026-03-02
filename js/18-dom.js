@@ -62,7 +62,7 @@ console.log(etiquetaNuevaH1)
     <h5 class="card-title text-truncate">${producto.title}</h5>
     <p class="card-text">$${producto.price}</p>
     <p class="card-text text-truncate">${producto.description}</p>
-    <a href="../paginas/detalleDelProducto.html" class="btn btn-primary">Ver Mas</a>
+    <a href="../paginas/detalleDelProducto.html?id=${producto.id}" class="btn btn-primary">Ver Mas</a>
             </div>
         </div>
     </div>
