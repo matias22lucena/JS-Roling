@@ -10,3 +10,7 @@
 main{
     min-height: 100vh;
 }
+
+.div-imagen img {
+width: 200px;
+}

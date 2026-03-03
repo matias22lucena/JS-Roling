@@ -8,7 +8,7 @@
 
     divProductos.innerHTML = `
 
-    <div class="col-12 col-md-6">
+    <div class="col-12 col-md-6  div-imagen  text-center">
         <img src="${objetoDelProducto.image}" alt="">
       </div>
       <div class="col-12 col-md-6">
@@ -22,4 +22,4 @@
 
     }
 )()
-//clase 23 de febrero 24minutosss
+//clase 23 de febrero 27minutosss
