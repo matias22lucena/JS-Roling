@@ -46,4 +46,4 @@ const agregarProductoCarrito = () => {
   }
 };
 
-//clase 23 de febrero 1.04
+//clase 23 de febrero 1.11
