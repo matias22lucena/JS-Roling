@@ -7,10 +7,13 @@
     height: 50vh;
     object-fit: cover;
 }
-main{
+/* main{
     min-height: 100vh;
-}
+} */
 
 .div-imagen img {
 width: 200px;
 }
+/* .estilo-fila{
+    min-height: 100vh;
+} */
